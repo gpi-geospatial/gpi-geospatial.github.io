@@ -1,7 +1,7 @@
 ---
 layout: page
-title: project 1
-description: with background image
+title: UVicMap
+description: Interactive, 3D Map of the University of Victoria
 img: assets/img/12.jpg
 importance: 1
 category: work
